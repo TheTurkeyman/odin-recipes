@@ -1,7 +1,7 @@
 * {background-color: rgb(187, 200, 202); font-family: "Arial Black", Arial; font-weight: 700; text-align: center;}
 .list {font-size: 32px;
     background-color: aliceblue;
-    color: aliceblue
+    color: aliceblue;
 box-sizing: border-box;
 padding: 35px;
 margin: 35px;
@@ -14,4 +14,4 @@ a, ul { background-color: aliceblue;
    color: rgb(161, 23, 131)}
 
 li {background-color: aliceblue;
-color:aliceblue}
+}
