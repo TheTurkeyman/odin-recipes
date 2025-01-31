@@ -1,0 +1,15 @@
+h1 {color: blueviolet; text-align: center;}
+
+a:link {
+    text-decoration: none;
+    text-align: center;
+  }
+
+ul {list-style-type: none;
+text-align: center;
+padding: 20px;}
+
+#justadiv {text-align: center;
+font-weight: 800;}
+
+body {background-color:antiquewhite;} 
